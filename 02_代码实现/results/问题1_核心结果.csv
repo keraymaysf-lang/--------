@@ -1,0 +1,12 @@
+﻿metric,value,unit
+strict_central_angle_deg,4.364468726652541,deg
+strict_ground_radius_km,485.30677990259994,km
+strict_coverage_area_km2,739558.5786666987,km2
+nominal_ground_radius_km,506.0,km
+radius_relative_difference_pct,-4.089569189209498,pct
+half_cone_for_506km_deg,41.56201645813269,deg
+orbital_period_min,95.50217108184887,min
+ground_track_shift_per_orbit_deg,23.940531475069935,deg
+literal_min_satellites_best,4.0,satellites
+strict_along_track_min_satellites,42.0,satellites
+nominal_along_track_min_satellites,40.0,satellites

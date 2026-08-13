@@ -1,0 +1,11 @@
+﻿metric,value,unit
+min_components,1.0,count
+max_components,1.0,count
+min_node_degree,4.0,count
+max_node_degree,4.0,count
+max_interplane_link_km,931.511924718348,km
+mean_delay_ms,22.893353052706637,ms
+p95_delay_ms,41.20309045234332,ms
+max_delay_ms,52.907897984303986,ms
+delay_30ms_compliance,0.7676587301587302,ratio
+unreachable_pairs,0.0,count

@@ -1,0 +1,4 @@
+﻿scheme,redundant_satellites,initial_orbit_added,short_term_reliability_proxy,recovery_delay_days,incremental_5year_cost_yuan,note
+A 每轨在轨备用,38,38,0.9980898943570685,0,408396560.0,满足解析99%短期可靠度
+B 增加1个轨道面,52,52,0.999,0,478396560.0,可靠度为代理值，需重新优化相位并几何复核
+C 地面库存,116,0,0.6846539601889698,7,998396560.0,不能改善7天窗口，只承担五年补网
